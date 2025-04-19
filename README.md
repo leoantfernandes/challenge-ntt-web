@@ -6,7 +6,7 @@ Este repositório contém testes end-to-end (E2E) automatizados usando [Cypress]
 
 Automatizar testes de funcionalidades essenciais da aplicação como:
 - Login
-- Visualização de produtos
+- Listagem de produtos disponíveis
 - Adição de produto ao carrinho
 - Validação de carrinho vazio e logout
 
