@@ -1,4 +1,3 @@
-# serverest-cypress-tests-web
 # 🧪 Testes E2E com Cypress – ServeRest Web
 
 Este repositório contém testes end-to-end (E2E) automatizados usando [Cypress](https://www.cypress.io/) para a aplicação web [ServeRest](https://front.serverest.dev), uma plataforma de e-commerce fictícia.
